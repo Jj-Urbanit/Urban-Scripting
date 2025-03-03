@@ -23,7 +23,7 @@ def main():
 
 def getDistance(address):
 	api = "https://maps.googleapis.com/maps/api/directions/json?"
-	apiKey = "AIzaSyCZel-4vHVTcBVpD29YYuNWnL1YkuT_zYw"
+	apiKey = ""
 
 	request = "origin="+ baseAddress+ "&destination="+ address+ "&units=metric"+ "&key="+ apiKey
 

@@ -1,4 +1,4 @@
-$Token = 'xoxp-28125092194-28114219701-345797478823-ef09f0f754d058cf2119a3f5a2ee9d47'
+$Token = ''
 $PayLoad1 = @{token=$Token}
 $Slack_ChannelList = Invoke-RestMethod -Uri https://slack.com/api/channels.list -Body $PayLoad1
 $ChannelsToArchive =@()
