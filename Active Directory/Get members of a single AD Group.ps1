@@ -1,0 +1,2 @@
+﻿#Gets all Group members, sorts and exports to CSV. Only includes the names, no other details. add additional info to select to output more. 
+Get-ADGroupMember -Identity "Staff - Security"  | select Name | Sort-Object Name | Export-Csv C:\temp\Secusers.csv -NoTypeInformation

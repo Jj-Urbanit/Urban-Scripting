@@ -1,0 +1,1 @@
+Register-ScheduledTask -Xml (get-content "C:\Users\aplatanisiotis\Source\Repos\Powershell\Internal\Scripts\RT Forsythe\Monthly User List.xml" | out-string) -TaskName "Weekly System Info Report" -User missinglink\aplatanisiotis -Password 'Miskle!28@15#16$TML123!@#!' -Force

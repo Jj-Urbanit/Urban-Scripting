@@ -1,0 +1,18 @@
+name,host,url,type
+Board ,https://primarycommunitycare.sharepoint.com/sites/board,board,sitecoll
+Admin Support and Reception ,https://primarycommunitycare.sharepoint.com/sites/corporate,admin-support,site
+Team Library,https://primarycommunitycare.sharepoint.com/sites/corporate/admin-support,,library
+Management Library,https://primarycommunitycare.sharepoint.com/sites/corporate/admin-support,,library
+Global Library,https://primarycommunitycare.sharepoint.com/sites/corporate/admin-support,,library
+Contract Management ,https://primarycommunitycare.sharepoint.com/sites/corporate,contract-mgmt,site
+Team Library,https://primarycommunitycare.sharepoint.com/sites/corporate/contract-mgmt,,library
+Management Library,https://primarycommunitycare.sharepoint.com/sites/corporate/contract-mgmt,,library
+Global Library,https://primarycommunitycare.sharepoint.com/sites/corporate/contract-mgmt,,library
+Legal,https://primarycommunitycare.sharepoint.com/sites/corporate,legal,site
+Legal,https://primarycommunitycare.sharepoint.com/sites/corporate/legal,,library
+Risk Management,https://primarycommunitycare.sharepoint.com/sites/corporate/legal,,library
+BCP,https://primarycommunitycare.sharepoint.com/sites/corporate/legal,,library
+Systems and IT ,https://primarycommunitycare.sharepoint.com/sites/corporate,systems-it,site
+Team Library,https://primarycommunitycare.sharepoint.com/sites/corporate/systems-it,,library
+Management Library,https://primarycommunitycare.sharepoint.com/sites/corporate/systems-it,,library
+Global Library,https://primarycommunitycare.sharepoint.com/sites/corporate/systems-it,,library

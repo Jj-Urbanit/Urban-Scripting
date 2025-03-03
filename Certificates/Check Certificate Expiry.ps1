@@ -1,0 +1,1 @@
+﻿Get-ChildItem -Path Cert:\LocalMachine\My | Select-Object -Property PSComputerName, Subject, @{n=’ExpireInDays’;e={($_.notafter – (Get-Date)).Days}}

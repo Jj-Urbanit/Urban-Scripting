@@ -1,0 +1,1 @@
+Get-CMDevice -Name "WKSPF31B4GW" | Remove-CMDevice

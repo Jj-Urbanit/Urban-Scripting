@@ -1,0 +1,1 @@
+get-DistributionGroup -Filter * | select-object -Property name,primarysmtpaddress,emailaddresses | sort-object -property name | export-csv -path c:\temp\emailadds.csv -NoTypeInformation
