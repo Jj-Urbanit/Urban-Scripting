@@ -1,7 +1,7 @@
 ﻿$Global:CWInfo = [pscustomobject] @{
     Company = 'TheMissingLink'
     User = 'PowerShellAPI_Company'
-    Password = 'espy-jean-qQs'
+    Password = ''
     ServerRoot = 'https://connect.themissinglink.com.au/'
     ImpersonationMember = 'aplatanisiotis'
 }
