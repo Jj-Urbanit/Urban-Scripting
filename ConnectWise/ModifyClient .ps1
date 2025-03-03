@@ -8,7 +8,7 @@
 $loadInfo1 = [System.Reflection.Assembly]::LoadWithPartialName("Microsoft.SharePoint.Client")
 $loadInfo2 = [System.Reflection.Assembly]::LoadWithPartialName("Microsoft.SharePoint.Client.Runtime")
 $username = "cw_export@themissinglink.onmicrosoft.com" 
-$password = "cxo1lTZDIE8K7n57!" 
+$password = "" 
 $securePassword = ConvertTo-SecureString $password -AsPlainText -Force 
 $logpath = "D:\CW-Export-logs\Modify-Clients.log"
 
